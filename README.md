@@ -1,2 +1,14 @@
 # wegameasia-notes
-HTML page archive and documentation
+
+发布页面归档目录
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
